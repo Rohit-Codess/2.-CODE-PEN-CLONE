@@ -19,8 +19,8 @@ Install Node.js and npm on your machine.
 
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/react-codepen-clone.git
-cd react-codepen-clone
+git clone https://github.com/Rohit-Codess/2.-CODE-PEN-CLONE.git
+cd 2.-CODE-PEN-CLONE
 
 # Install dependencies
 npm install
